@@ -1,0 +1,9 @@
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\bin\Debug\ServiceAvailabilityTest.exe.config
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\bin\Debug\ServiceAvailabilityTest.exe
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\bin\Debug\ServiceAvailabilityTest.pdb
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\obj\Debug\ServiceAvailabilityTest.Main.resources
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\obj\Debug\ServiceAvailabilityTest.Properties.Resources.resources
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\obj\Debug\ServiceAvailabilityTest.csproj.GenerateResource.cache
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\obj\Debug\ServiceAvailabilityTest.csproj.CoreCompileInputs.cache
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\obj\Debug\ServiceAvailabilityTest.exe
+C:\Users\v-skrishnasa\source\repos\ServiceAvailabilityTest\ServiceAvailabilityTest\obj\Debug\ServiceAvailabilityTest.pdb

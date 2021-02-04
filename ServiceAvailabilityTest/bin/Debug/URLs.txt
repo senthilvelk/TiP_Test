@@ -1,0 +1,6 @@
+rngdata.azurefd.net
+ekpub.azurefd.net
+ekpubqc.azurefd.net
+srqservice.azurefd.net
+imeicheck.azurefd.net
+tamperbit.azurefd.net
